@@ -1,7 +1,8 @@
 
 <h1 align="center">Namaste 🙏, I'm Glorious Thapa</h1>
 <h3 align="center">A passionate Developer from Nepal 🇳🇵, residing in India 🇮🇳</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/xUPGcMpoxSZdiLTv7q/giphy.gif?cid=ecf05e47zcez5y20lrvsar6972vdk9lzcpvsiruohu50mmje&rid=giphy.gif&ct=g">
+<img src="https://i.imgur.com/SJ19yDC.gif" width="200px" align="right">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgloryyy&label=Profile%20views&color=0e75b6&style=flat" alt="tgloryyy" /> </p>
 
