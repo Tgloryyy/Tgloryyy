@@ -13,9 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [Github Repo](https://github.com/Tgloryyy?tab=repositories)
 
-- 💬 Ask me about **Html,Css,JavaScript,Java**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **gloriousthapa2@gmail.com**
+
+- 🎆 Check my [Portfolio](https://gloriousthapa.me)
 
 - ⚡ Things that i'm proud of **Uber Rating : 4.92**
 
